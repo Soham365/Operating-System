@@ -1,5 +1,7 @@
 # Dos Os v1.0
 This is a Dos Os.
+# Username: son
+# Password: 100
 
 Author:
 Soham365 (Soham Ghosh)
